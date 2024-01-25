@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+h2, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: #c44601;
+}
+p{
+    line-height: 1;
+}
+image{
+    padding-left:  10px;
+    padding-right:  10px;
+    padding-top:  10px;
+    padding-bottom:  10px;
+    border-width: 5px;
+    margin: 20px;
+    border-color: blue;
+    border-top-right-radius: 30px;
+}
